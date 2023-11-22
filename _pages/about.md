@@ -7,17 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Teng Xue, a PhD student at Ecole Polytechnique Federale de Lausanne (EPFL) and a research assistant at Robot Learning and Interaction Group (RLI), Idiap Research Institute, supervised by Dr. [Sylvain Calinon](https://calinon.ch/). Before joining Idiap/EPFL, I was fortunate to work as a research intern at [ETH RSL](https://rsl.ethz.ch/), supervised by Prof. [Marco Hutter](https://rsl.ethz.ch/the-lab/people/person-detail.MTIxOTEx.TGlzdC8yNDQxLC0xNDI1MTk1NzM1.html), and [Stanford Artificial Intelligence Lab (SAIL)](https://ai.stanford.edu/), supervised by Dr. [Shenli Yuan](https://yuanshenli.com/) and Prof. [J. Kenneth Salisbury](https://sr.stanford.edu/?page_id=1217).
-
-I am broadly interested in planning and control for robotic systems that can physically interact with the surroundings, especially long-term contact-rich manipulation, by leveraging the tools in optimization and machine learning.
-
-You can find my previous personal website <a href="https://xueteng.weebly.com/"> [here] </a>.
+I am Amirreza Razmjoo F., a PhD student at Ecole Polytechnique Federale de Lausanne (EPFL) and a research assistant at Robot Learning and Interaction Group (RLI), Idiap Research Institute, supervised by Dr. [Sylvain Calinon](https://calinon.ch/). Before joining Idiap/EPFL, I did my master studies at Sharif University of technology, Tehran, Iran and my bachelor studies at the University of Tehran, Tehran, Iran. My main research topic includes controlling dynamic motion using optimization and learning methods.
 
 Recent News
 ======
-<p>(2023/05) One abstract paper about <strong>Contract-rich Manipulation</strong> is accepted to <a href="https://sites.google.com/view/icra2023embracingcontacts/home?authuser=0"> Embracing contacts. Making robots physically interact with our world</a> workshop held in ICRA 2023!</p>
+<p>(2023/09) One paper about <strong> Physical assistance </strong> is accepted to IROS 2023!</p>
 
-<p>(2023/05) One abstract paper about <strong>Optimal Control with Human Help</strong> is accepted to <a href="https://life-long-learning-with-human-help-l3h2.github.io/"> Life-Long Learning wiht Human Help (L3H2)</a> workshop held in ICRA 2023!</p>
+<!--<p>(2023/05) One abstract  paper about <strong>Optimal Control with Human Help</strong> is accepted to <a href="https://life-long-learning-with-human-help-l3h2.github.io/"> Life-Long Learning wiht Human Help (L3H2)</a> workshop held in ICRA 2023!</p>
 
 <p>(2023/02) One paper about <strong>Non-prehensile Planar Manipulation</strong> is accepted to ICRA 2023!</p>
 
@@ -31,7 +27,7 @@ Recent News
 
 <p>(2018/05) Our team， Kaibot, won the <strong> First Place </strong> in Tidy Up My Room Challenge in ICRA 2018! </p>
 
-<p>(2017/02) We won the <strong> Outstanding Winner (1/8085)</strong> of MCM/ICM competition held by <a href="https://www.comap.com/contests/mcm-icm"> American Consortium for Mathematics and Its Application (COMAP)</a>. A nice collaboration with Yasheng and Taihang!  </p>
+<p>(2017/02) We won the <strong> Outstanding Winner (1/8085)</strong> of MCM/ICM competition held by <a href="https://www.comap.com/contests/mcm-icm"> American Conso -->rtium for Mathematics and Its Application (COMAP)</a>. A nice collaboration with Yasheng and Taihang!  </p>
 
 {% include clustermap.html style="js" %} 
 
