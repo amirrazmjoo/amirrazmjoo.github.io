@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Amirreza Razmjoo"
-  avatar           : "IMG_0101.JPG"
+  avatar           : "txue_profile.png"
   bio              : "Research Assistant in Robot learning & Interaction group"
   location         : "Lausanne, Switzerland"
   employer         :
@@ -103,7 +103,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "amir-razmjoo/"
+  linkedin         : "teng-xue-890654154/"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -116,7 +116,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  cv               : c
+  cv               : "https://schortenger.github.io/files/TengXue_CV.pdf"
 
 
 
