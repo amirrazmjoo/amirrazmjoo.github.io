@@ -82,13 +82,13 @@ analytics:
 # Site Author
 author:
   name             : "Amirreza Razmjoo"
-  avatar           : "txue_profile.png"
+  avatar           : "IMG_0101.JPG"
   bio              : "Research Assistant in Robot learning & Interaction group"
   location         : "Lausanne, Switzerland"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.hk/citations?user=sgFW7YwAAAAJ&hl=zh-CN"
-  email            : "teng.xue@epfl.ch"
+  googlescholar    : "https://scholar.google.com/citations?user=yu3z4wcAAAAJ&hl=en"
+  email            : "amirreza.razmjoofard@epfl.ch"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "teng-xue-890654154/"
+  linkedin         : "amir-razmjoo/"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -116,7 +116,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  cv               : "https://schortenger.github.io/files/TengXue_CV.pdf"
+  cv               : 
 
 
 
