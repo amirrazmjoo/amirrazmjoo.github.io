@@ -6,12 +6,6 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Projects"
-    url: /projects/
-
-  - title: "Videos"
-    url: /videos/
-
   - title: "Contact"
     url: /contact/
 
