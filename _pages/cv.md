@@ -11,9 +11,9 @@ redirect_from:
 
 <p>You can downdload a detailed pdf version of my CV in the following link <a href="https://amirrazmjoo.github.io/files/CV.pdf">CV</a>.</p>
 
-<h2>Education</h2>
+<!-- <h2>Education</h2> -->
 
-<ul>
+<!-- <ul>
 	<li>B.Sc. in Mechanical Engineering, Nanjing University of Aeronautics and Astronautics, 2013 - 2017 </li>
 	<li>M.Sc. in Mechanical Engineering, Shanghai Jiao Tong University, 2017 - 2020 </li>
 	<li>Visiting Student in Robotic Systems Lab, ETH Zurich, 2019 - 2020 </li>
@@ -65,4 +65,4 @@ redirect_from:
 
 <ul>
   <li><b>Vice President (2018.06 - 2019.06) </b> Graduate Student Union in School of Mechanical Engineering </li>
-</ul>
+</ul> -->
