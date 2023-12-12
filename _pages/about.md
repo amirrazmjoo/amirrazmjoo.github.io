@@ -27,9 +27,10 @@ Recent News
 
 <p>(2018/05) Our team， Kaibot, won the <strong> First Place </strong> in Tidy Up My Room Challenge in ICRA 2018! </p>
 
-<p>(2017/02) We won the <strong> Outstanding Winner (1/8085)</strong> of MCM/ICM competition held by <a href="https://www.comap.com/contests/mcm-icm"> American Conso -->rtium for Mathematics and Its Application (COMAP)</a>. A nice collaboration with Yasheng and Taihang!  </p>
+<!-- <p>(2017/02) We won the <strong> Outstanding Winner (1/8085)</strong> of MCM/ICM competition held by <a href="https://www.comap.com/contests/mcm-icm"> American Conso -->
+<!-- rtium for Mathematics and Its Application (COMAP)</a>. A nice collaboration with Yasheng and Taihang!  </p> -->
 
-{% include clustermap.html style="js" %} 
+<!-- {% include clustermap.html style="js" %}  --> 
 
 
 
