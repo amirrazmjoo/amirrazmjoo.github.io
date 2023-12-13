@@ -17,7 +17,7 @@ You can find my full articles on <a href="https://scholar.google.com/citations?u
 <i> In Proc. IEEE Intl Conf. on Intelligent Robots and Systems (IROS).  
 <br> 
 <div class="links">
-    <a class="btn btn-info z-depth-0 waves-effect waves-light" href="https://amirrazmjoo.github.io/files/IROS_23.pdf" role="button" target="_blank"> PDF </a> </div> </i>  </p> </td>
+    <a class="btn btn-info z-depth-0" href="https://amirrazmjoo.github.io/files/IROS_23.pdf" role="button" target="_blank"> PDF </a> </div> </i>  </p> </td>
 </tr>
 </tbody>
 </table>
