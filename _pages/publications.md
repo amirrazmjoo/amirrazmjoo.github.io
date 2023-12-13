@@ -15,7 +15,9 @@ You can find my full articles on <a href="https://scholar.google.com/citations?u
 <strong> Learning Joint Space Reference Manifold\\for Reliable Physical Assistance </strong> <br>
 <strong> Amirreza Razmjoo </strong>, Tilen Brecelj, Kristina Savevska, Aleš Ude, Tadej Petrič, and Sylvain Calinon. <br> 
 <i> In Proc. IEEE Intl Conf. on Intelligent Robots and Systems (IROS).  
-<br> <a href="https://amirrazmjoo.github.io/files/IROS_23.pdf"> [pdf] </a> </i>  </p> </td>
+<br> 
+<div class="links">
+    <a class="btn btn-sm z-depth-0 waves-effect waves-light" href="https://amirrazmjoo.github.io/files/IROS_23.pdf" role="button" target="_blank"> pdf </a> </div> </i>  </p> </td>
 </tr>
 </tbody>
 </table>
