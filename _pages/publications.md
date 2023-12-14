@@ -67,6 +67,19 @@ Boyang Ti, <strong>Amirreza Razmjoo</strong>, Yongsheng Gao, Jie Zhao, and Sylva
 </tbody>
 </table>
 
-
+<strong>2021</strong> <br>
+<table >
+<tbody>
+<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://amirrazmjoo.github.io/images/ICAR21.png" width="120px" height="120px" border="2px solid #bbb"> </td>
+<td style= "height=120px; vertical-align: top;"> <p>
+<strong> Optimal Control Combining Emulation and Imitation to Acquire Physical Assistance Skills</strong> <br>
+<strong>Amirreza Razmjoo</strong>, T. S. Lembono, and Sylvain Calinon. <br> 
+<i> Proc. IEEE Intl Conf. on Advanced Robotics (ICAR).  
+<br> 
+<div class="links">
+    <a class="btn btn-info" href="https://publications.idiap.ch/attachments/papers/2021/Razmjoo_ICAR_2021.pdf" role="button" target="_blank"> PDF </a> </div> </i>  </p> </td>
+</tr>
+</tbody>
+</table>
 
 
