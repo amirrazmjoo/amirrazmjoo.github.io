@@ -28,14 +28,13 @@ Teng Xue, <strong>Amirreza Razmjoo</strong>, and Sylvain Calinon. <br>
 <td style= "height=120px; vertical-align: top;"> <p>
 <strong> Learning Robot Geometry as Distance Fields: Applications to Whole-body Manipulation </strong> <br>
 Yimming Li, Yan Zhang, <strong>Amirreza Razmjoo</strong>, and Sylvain Calinon. <br> 
-<i> Underreview.  </i>
+<i> Underreview. 
 <br> 
 <div class="links">
-    <a class="btn btn-info" href="https://arxiv.org/pdf/2307.00533.pdf" role="button" target="_blank"> PREPRINT </a> </div>   </p> </td>
+    <a class="btn btn-info" href="https://arxiv.org/pdf/2307.00533.pdf" role="button" target="_blank"> PREPRINT </a> </div>  </i>  </p> </td>
 </tr>
 </tbody>
 </table>
-
 
 <table >
 <tbody>
@@ -53,5 +52,21 @@ Yimming Li, Yan Zhang, <strong>Amirreza Razmjoo</strong>, and Sylvain Calinon. <
 </tr>
 </tbody>
 </table>
+
+<table >
+<tbody>
+<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://amirrazmjoo.github.io/images/RAS23.png" width="120px" height="120px" border="2px solid #bbb"> </td>
+<td style= "height=120px; vertical-align: top;"> <p>
+<strong> A geometric optimal control approach for imitation and generalization of manipulation skills </strong> <br>
+Boyang Ti, <strong>Amirreza Razmjoo</strong>, Yongsheng Gao, Jie Zhao, and Sylvain Calinon. <br> 
+<i> Robotics and Autonomous Systems (RAS). 
+<br> 
+<div class="links">
+    <a class="btn btn-info" href="https://www.sciencedirect.com/science/article/abs/pii/S0921889023000520" role="button" target="_blank"> Link </a> </div>  </i>  </p> </td>
+</tr>
+</tbody>
+</table>
+
+
 
 
