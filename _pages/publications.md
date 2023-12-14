@@ -10,6 +10,35 @@ You can find my full articles on <a href="https://scholar.google.com/citations?u
 <strong>2023</strong> <br>
 <table >
 <tbody>
+<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://amirrazmjoo.github.io/images/ICRA24.jpeg" width="120px" height="120px" border="2px solid #bbb"> </td>
+<td style= "height=120px; vertical-align: top;"> <p>
+<strong> D-LGP: Dynamic Logic-Geometric Program for Combined Task and Motion Planning </strong> <br>
+Teng Xue, <strong>Amirreza Razmjoo</strong>, and Sylvain Calinon. <br> 
+<i> Underreview.  
+<br> 
+<div class="links">
+    <a class="btn btn-info" href="https://arxiv.org/pdf/2312.02731.pdf" role="button" target="_blank"> PREPRINT </a> </div> </i>  </p> </td>
+</tr>
+</tbody>
+</table>
+
+<table >
+<tbody>
+<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://amirrazmjoo.github.io/images/ICRA24_yimming.png" width="120px" height="120px" border="2px solid #bbb"> </td>
+<td style= "height=120px; vertical-align: top;"> <p>
+<strong> Learning Robot Geometry as Distance Fields: Applications to Whole-body Manipulation </strong> <br>
+Yimming Li, Yan Zhang, <strong>Amirreza Razmjoo</strong>, and Sylvain Calinon. <br> 
+<i> Underreview.  </i>
+<br> 
+<div class="links">
+    <a class="btn btn-info" href="https://arxiv.org/pdf/2307.00533.pdf" role="button" target="_blank"> PREPRINT </a> </div>   </p> </td>
+</tr>
+</tbody>
+</table>
+
+
+<table >
+<tbody>
 <tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://amirrazmjoo.github.io/images/IROS_23.png" width="120px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
 <strong> Learning Joint Space Reference Manifold for Reliable Physical Assistance </strong> <br>
@@ -25,16 +54,4 @@ You can find my full articles on <a href="https://scholar.google.com/citations?u
 </tbody>
 </table>
 
-<table >
-<tbody>
-<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://amirrazmjoo.github.io/images/ICRA24.jpeg" width="120px" height="120px" border="2px solid #bbb"> </td>
-<td style= "height=120px; vertical-align: top;"> <p>
-<strong> D-LGP: Dynamic Logic-Geometric Program\\for Combined Task and Motion Planning </strong> <br>
-Teng Xue, <strong>Amirreza Razmjoo</strong>, and Sylvain Calinon. <br> 
-<i> Underreview.  
-<br> 
-<div class="links">
-    <a class="btn btn-info" href="https://arxiv.org/pdf/2312.02731.pdf" role="button" target="_blank"> PREPRINT </a> </div> </i>  </p> </td>
-</tr>
-</tbody>
-</table>
+
