@@ -17,7 +17,9 @@ Teng Xue, <strong>Amirreza Razmjoo</strong>, and Sylvain Calinon. <br>
 <i> Underreview.  
 <br> 
 <div class="links">
-    <a class="btn btn-info" href="https://arxiv.org/pdf/2312.02731.pdf" role="button" target="_blank"> PREPRINT </a> </div> </i>  </p> </td>
+    <a class="btn btn-info" href="https://arxiv.org/pdf/2312.02731.pdf" role="button" target="_blank"> PREPRINT </a> 
+    <a class="btn btn-info" href="https://sites.google.com/view/dyn-lgp" role="button" target="_blank"> WEBSITE </a> 
+    </div> </i>  </p> </td>
 </tr>
 </tbody>
 </table>
