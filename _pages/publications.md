@@ -8,6 +8,56 @@ You can find my full articles on <a href="https://scholar.google.com/citations?u
 
 <strong>Selected Publications</strong> <br>
 <strong>2024</strong> <br>
+
+<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://amirrazmjoo.github.io/images/RSS_24_workshop_Teng.jpeg" width="120px" height="120px" border="2px solid #bbb"> </td>
+<td style= "height=120px; vertical-align: top;"> <p>
+<strong> Logic-Geometric learning and Control Using Graph of Tensor Networks, </strong> <br>
+Teng Xue, <strong>Amirreza Razmjoo</strong>, Suhan Shetty, and Sylvain Calinon. <br> 
+<i> Workshop at Robotics: Science and Systems (RSS).  
+<br> 
+
+<div class="links">
+    <a class="btn btn-info" href="https://amirrazmjoo.github.io/files/7_logic_geometric_planning_and_c.pdf" role="button" target="_blank"> PDF </a>
+    </div>
+ </i>  </p> </td>
+</tr>
+</tbody>
+</table>
+
+
+<table >
+<tbody>
+<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://amirrazmjoo.github.io/images/RSS_24_Teng.jpeg" width="120px" height="120px" border="2px solid #bbb"> </td>
+<td style= "height=120px; vertical-align: top;"> <p>
+<strong> Logic-Skill Programming: An Optimization-based Approach to Sequential Skill Planning, </strong> <br>
+Teng Xue, <strong>Amirreza Razmjoo</strong>, Suhan Shetty, and Sylvain Calinon. <br> 
+<i> Robotics: Science and Systems (RSS).  
+<br> 
+<!-- <div class="links">
+    <a class="btn btn-info" href="https://arxiv.org/pdf/2312.02731.pdf" role="button" target="_blank"> PREPRINT </a> 
+    <a class="btn btn-info" href="https://sites.google.com/view/dyn-lgp" role="button" target="_blank"> WEBSITE </a> 
+    </div> -->
+ </i>  </p> </td>
+</tr>
+</tbody>
+</table>
+
+
+<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://amirrazmjoo.github.io/images/RSS_24_Yimming.jpeg" width="120px" height="120px" border="2px solid #bbb"> </td>
+<td style= "height=120px; vertical-align: top;"> <p>
+<strong> Configuration Space Distance Fields for Manipulation Planning, </strong> <br>
+Yimming Li, Xuemin Chi, <strong>Amirreza Razmjoo</strong>, and Sylvain Calinon. <br> 
+<i> Robotics: Science and Systems (RSS).  
+<br> 
+<!-- <div class="links">
+    <a class="btn btn-info" href="https://arxiv.org/pdf/2312.02731.pdf" role="button" target="_blank"> PREPRINT </a> 
+    <a class="btn btn-info" href="https://sites.google.com/view/dyn-lgp" role="button" target="_blank"> WEBSITE </a> 
+    </div> -->
+ </i>  </p> </td>
+</tr>
+</tbody>
+</table>
+
 <table >
 <tbody>
 <tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://amirrazmjoo.github.io/images/ICRA24.jpeg" width="120px" height="120px" border="2px solid #bbb"> </td>
