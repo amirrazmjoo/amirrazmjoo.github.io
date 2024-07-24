@@ -50,7 +50,7 @@ Teng Xue, <strong>Amirreza Razmjoo</strong>, Suhan Shetty, and Sylvain Calinon. 
 <td style= "height=120px; vertical-align: top;"> <p>
 <strong> Configuration Space Distance Fields for Manipulation Planning, </strong> <br>
 Yimming Li, Xuemin Chi, <strong>Amirreza Razmjoo</strong>, and Sylvain Calinon. <br> 
-<i> Robotics: Science and Systems (RSS). (Best paper Finalist) 
+<i> Robotics: Science and Systems (RSS). (<strong>Best paper Finalist</strong>) 
 <br> 
 <div class="links">
     <a class="btn btn-info" href="https://enriquecoronadozu.github.io/rssproceedings2024/rss20/p131.pdf" role="button" target="_blank"> PDF </a> 
