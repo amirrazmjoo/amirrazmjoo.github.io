@@ -8,22 +8,31 @@ You can find my full articles on <a href="https://scholar.google.com/citations?u
 
 <strong>Selected Publications</strong> <br>
 <strong>2025</strong> <br>
-<table >
-<tbody>
-<tr> <td style="width:120px; height=120px; vertical-align: top;"> <video style="float: left; margin-right: 10px " src="https://amirrazmjoo.github.io/videos/OM.mp4" width="120px" height="120px" border="2px solid #bbb" autoplay loop muted> </td>
-<td style= "height=120px; vertical-align: top;"> <p>
-<strong> Sampling-Based Constrained Motion Planning with Products of Experts, </strong> <br>
-<strong>Amirreza Razmjoo</strong>, Sylvain Calinon, Michael Gienger, and Fan Zhang. <br> 
-<i> Under review.  
-<br> 
-<div class="links">
-    <!-- <a class="btn btn-info" href="https://arxiv.org/pdf/2412.17462" role="button" target="_blank"> PDF </a> -->
-    <!-- <a class="btn btn-info" href="https://sites.google.com/view/robustpl/" role="button" target="_blank"> WEBSITE </a> -->
-</div>
-</i>  </p> </td>
-</tr>
-</tbody>
+<table>
+  <tbody>
+    <tr>
+      <td style="width: 120px; height: 120px; vertical-align: top;">
+        <video style="float: left; margin-right: 10px; border: 2px solid #bbb;" 
+               src="https://amirrazmjoo.github.io/videos/OM.mp4" 
+               width="120" height="120" autoplay loop muted>
+        </video>
+      </td>
+      <td style="height: 120px; vertical-align: top;">
+        <p>
+          <strong>Sampling-Based Constrained Motion Planning with Products of Experts</strong><br>
+          <strong>Amirreza Razmjoo</strong>, Sylvain Calinon, Michael Gienger, and Fan Zhang.<br>
+          <i>Under review.</i>
+        </p>
+        <div class="links">
+          <!-- Uncomment and update links when available -->
+          <!-- <a class="btn btn-info" href="https://arxiv.org/pdf/2412.17462" role="button" target="_blank">PDF</a> -->
+          <!-- <a class="btn btn-info" href="https://sites.google.com/view/robustpl/" role="button" target="_blank">WEBSITE</a> -->
+        </div>
+      </td>
+    </tr>
+  </tbody>
 </table>
+
 
 
 
