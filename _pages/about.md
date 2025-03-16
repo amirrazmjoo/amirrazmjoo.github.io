@@ -9,20 +9,13 @@ redirect_from:
 ---
 I am a PhD student at [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch) and a research assistant in the **Robot Learning and Interaction (RLI) Group** at the [Idiap Research Institute](https://www.idiap.ch/), supervised by [Dr. Sylvain Calinon](https://calinon.ch/).  
 
-My research focuses on **controlling robots in highly constrained scenarios**, such as humanoid robots interacting with users or robotic systems manipulating objects in **contact-rich environments**. I am passionate about developing **adaptive, efficient, and intelligent robotic control methods** that enable robots to interact with the world more naturally and safely.  
-
-To achieve this, I explore:  
-- **Generative AI** (e.g., diffusion models, flow matching)  
-- **Model composition** (e.g., product of experts)  
-- **System dynamics** and control theory  
-- **Physics-based simulation** (e.g., Isaac Sim)  
+My research focuses on **controlling robots in highly constrained scenarios**, such as humanoid robots interacting with users or robotic systems manipulating objects in **contact-rich environments**. I am passionate about developing **adaptive, efficient, and intelligent robotic control methods** that enable robots to interact with the world more naturally and safely.  To achieve this, I explore **Generative AI** (e.g., diffusion models, flow matching), **Model composition** (e.g., product of experts), **System dynamics**, **control theory**, and **Physics-based simulation** (e.g., Isaac Sim) . 
 
 I am particularly excited about **bridging the gap between theory and real-world robotic applications**, leveraging AI-driven models to enhance **robot autonomy and interaction**. My goal is to push the boundaries of robotic learning and control, making robots more **intuitive, adaptable, and physical intelligent**.  
 
 
 
 # News
-Recent News
 ======
 
 <!-- <p> <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lobster&display=swap">
