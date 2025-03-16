@@ -11,13 +11,11 @@ I am a PhD student at [École Polytechnique Fédérale de Lausanne (EPFL)](https
 
 My research focuses on **controlling robots in highly constrained scenarios**, such as humanoid robots interacting with users or robotic systems manipulating objects in **contact-rich environments**. I am passionate about developing **adaptive, efficient, and intelligent robotic control methods** that enable robots to interact with the world more naturally and safely.  To achieve this, I explore **Generative AI** (e.g., diffusion models, flow matching), **Model composition** (e.g., product of experts), **System dynamics**, **control theory**, and **Physics-based simulation** (e.g., Isaac Sim) . 
 
-I am particularly excited about **bridging the gap between theory and real-world robotic applications**, leveraging AI-driven models to enhance **robot autonomy and interaction**. My goal is to push the boundaries of robotic learning and control, making robots more **intuitive, adaptable, and physical intelligent**.  
+I am particularly excited about **bridging the gap between theory and real-world robotic applications**, leveraging AI-driven models to enhance **robot autonomy and interaction**. My goal is to push the boundaries of robotic learning and control, making robots more **intuitive, adaptable, and physically intelligent**.  
 
 
 
 # News
-======
-
 <!-- <p> <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lobster&display=swap">
 <span style="font-family: 'Lobster', cursive; font-size: 24px; color: red;">
     New
@@ -25,7 +23,7 @@ I am particularly excited about **bridging the gap between theory and real-world
 (2024/09) Our paper <a href="https://openreview.net/forum?id=yNQu9zqx6X&referrer=%5Bthe%20profile%20of%20Teng%20Xue%5D(%2Fprofile%3Fid%3D~Teng_Xue1)"> Robust Manipulation Primitive Learning via Domain Contraction </a> is accepted to Conference on Robot Learning (CoRL), 2024! -->
 
 <p>
-  (2024/10) I will join Honda Research Institute Europe to conduct an internship for 6 months under the supervision of Dr. Michael Gienger and Dr. Fan Zhang. 
+(2024/10) I will be joining Honda Research Institute Europe for a six-month internship, working under the supervision of Dr. Michael Gienger and Dr. Fan Zhang.
 </p>
 
 <p>

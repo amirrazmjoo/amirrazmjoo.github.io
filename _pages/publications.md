@@ -7,7 +7,136 @@ author_profile: true
 You can find my full articles on <a href="https://scholar.google.com/citations?user=yu3z4wcAAAAJ&hl=en"> my Google Scholar profile </a> <br>
 
 <strong>Selected Publications</strong> <br>
+<strong>2025</strong> <br>
+<table >
+<tbody>
+<tr> <td style="width:120px; height=120px; vertical-align: top;"> <video style="float: left; margin-right: 10px " src="https://amirrazmjoo.github.io/videos/OM.mp4" width="120px" height="120px" border="2px solid #bbb" autoplay loop muted> </td>
+<td style= "height=120px; vertical-align: top;"> <p>
+<strong> Sampling-Based Constrained Motion Planning with Products of Experts, </strong> <br>
+<strong>Amirreza Razmjoo</strong>, Sylvain Calinon, Michael Gienger, and Fan Zhang. <br> 
+<i> Under review.  
+<br> 
+<div class="links">
+    <!-- <a class="btn btn-info" href="https://arxiv.org/pdf/2412.17462" role="button" target="_blank"> PDF </a> -->
+    <!-- <a class="btn btn-info" href="https://sites.google.com/view/robustpl/" role="button" target="_blank"> WEBSITE </a> -->
+</div>
+</i>  </p> </td>
+</tr>
+</tbody>
+</table>
+
+
+
+<table >
+<tbody>
+<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://amirrazmjoo.github.io/images/IROS_onur_2025.jpeg" width="120px" height="120px" border="2px solid #bbb"> </td>
+<td style= "height=120px; vertical-align: top;"> <p>
+<strong> Sampling-Based Constrained Motion Planning with Products of Experts, </strong> <br>
+Onur Beker, Nico Gürtler, Ji Shi, A. Ren\'e Geist, <strong> Amirreza Razmjoo </strong>, Georg Martius,  Sylvain Calinon<br> 
+<i> Under review.  <br> 
+<div class="links">
+    <!-- <a class="btn btn-info" href="https://arxiv.org/pdf/2412.17462" role="button" target="_blank"> PDF </a> -->
+    <!-- <a class="btn btn-info" href="https://sites.google.com/view/robustpl/" role="button" target="_blank"> WEBSITE </a> -->
+</div>
+</i>  </p> </td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
 <strong>2024</strong> <br>
+
+<table >
+<tbody>
+<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://amirrazmjoo.github.io/images/IJRR_Amir_2024.jpeg" width="120px" height="120px" border="2px solid #bbb"> </td>
+<td style= "height=120px; vertical-align: top;"> <p>
+<strong> Sampling-Based Constrained Motion Planning with Products of Experts, </strong> <br>
+<strong>Amirreza Razmjoo</strong>, Teng Xue, Suhan Shetty, and Sylvain Calinon. <br> 
+<i> Under review.  
+<br> 
+<div class="links">
+    <a class="btn btn-info" href="https://arxiv.org/pdf/2412.17462" role="button" target="_blank"> PDF </a>
+    <!-- <a class="btn btn-info" href="https://sites.google.com/view/robustpl/" role="button" target="_blank"> WEBSITE </a> -->
+</div>
+</i>  </p> </td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+<table >
+<tbody>
+<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://amirrazmjoo.github.io/images/IJRR_Teng_2024.jpeg" width="120px" height="120px" border="2px solid #bbb"> </td>
+<td style= "height=120px; vertical-align: top;"> <p>
+<strong> Robust Contact-rich Manipulation through Implicit Motor Adaptation, </strong> <br>
+Teng Xue, <strong>Amirreza Razmjoo</strong>, Suhan Shetty, and Sylvain Calinon. <br> 
+<i> Under review.  
+<br> 
+<div class="links">
+    <a class="btn btn-info" href="https://arxiv.org/pdf/2412.11829" role="button" target="_blank"> PDF </a>
+    <!-- <a class="btn btn-info" href="https://sites.google.com/view/robustpl/" role="button" target="_blank"> WEBSITE </a> -->
+</div>
+</i>  </p> </td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+<table >
+<tbody>
+<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://amirrazmjoo.github.io/images/CoRL_Teng_2024.jpeg" width="120px" height="120px" border="2px solid #bbb"> </td>
+<td style= "height=120px; vertical-align: top;"> <p>
+<strong> Robust Manipulation Primitive Learning via Domain Contraction, </strong> <br>
+Teng Xue, <strong>Amirreza Razmjoo</strong>, Suhan Shetty, and Sylvain Calinon. <br> 
+<i> 8th Annual Conference on Robot Learning (CoRL).  
+<br> 
+<div class="links">
+    <a class="btn btn-info" href="https://openreview.net/pdf?id=yNQu9zqx6X" role="button" target="_blank"> PDF </a>
+    <a class="btn btn-info" href="https://sites.google.com/view/robustpl/" role="button" target="_blank"> WEBSITE </a>
+</div>
+</i>  </p> </td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+<table >
+<tbody>
+<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://amirrazmjoo.github.io/images/RAL_YAN_2024.jpeg" width="120px" height="120px" border="2px solid #bbb"> </td>
+<td style= "height=120px; vertical-align: top;"> <p>
+<strong> Logic Learning from Demonstrations for Multi-step Manipulation Tasks in Dynamic Environments, </strong> <br>
+Yan Zhang, Teng Xue, <strong>Amirreza Razmjoo</strong>, and Sylvain Calinon. <br> 
+<i> IEEE Robotics and Automation Letters (RA-L).  
+<br> 
+<div class="links">
+    <a class="btn btn-info" href="https://arxiv.org/pdf/2404.16138" role="button" target="_blank"> PDF </a>
+    <a class="btn btn-info" href="https://github.com/ollieyzhang/Logic-LfD" role="button" target="_blank"> WEBSITE </a>
+</div>
+</i>  </p> </td>
+</tr>
+</tbody>
+</table>
+
+
+
 
 <table >
 <tbody>
@@ -54,6 +183,7 @@ Yimming Li, Xuemin Chi, <strong>Amirreza Razmjoo</strong>, and Sylvain Calinon. 
 <br> 
 <div class="links">
     <a class="btn btn-info" href="https://enriquecoronadozu.github.io/rssproceedings2024/rss20/p131.pdf" role="button" target="_blank"> PDF </a> 
+    <a class="btn btn-info" href="https://github.com/yimingli1998/cdf" role="button" target="_blank"> WEBSITE </a> 
     </div>
  </i>  </p> </td>
 </tr>
@@ -69,7 +199,7 @@ Teng Xue, <strong>Amirreza Razmjoo</strong>, and Sylvain Calinon. <br>
 <i> Proc. IEEE Intl Conf. on Robotics and Automation (ICRA).  
 <br> 
 <div class="links">
-    <a class="btn btn-info" href="https://arxiv.org/pdf/2312.02731.pdf" role="button" target="_blank"> PREPRINT </a> 
+    <a class="btn btn-info" href="https://arxiv.org/pdf/2312.02731.pdf" role="button" target="_blank"> PDF </a> 
     <a class="btn btn-info" href="https://sites.google.com/view/dyn-lgp" role="button" target="_blank"> WEBSITE </a> 
     </div> </i>  </p> </td>
 </tr>
@@ -85,7 +215,9 @@ Yimming Li, Yan Zhang, <strong>Amirreza Razmjoo</strong>, and Sylvain Calinon. <
 <i> Proc. IEEE Intl Conf. on Robotics and Automation (ICRA). 
 <br> 
 <div class="links">
-    <a class="btn btn-info" href="https://arxiv.org/pdf/2307.00533.pdf" role="button" target="_blank"> PREPRINT </a> </div>  </i>  </p> </td>
+    <a class="btn btn-info" href="https://arxiv.org/pdf/2307.00533.pdf" role="button" target="_blank"> PDF </a> 
+    <a class="btn btn-info" href="https://github.com/yimingli1998/RDF" role="button" target="_blank"> WEBSITE </a> </div>
+</i>  </p> </td>
 </tr>
 </tbody>
 </table>
