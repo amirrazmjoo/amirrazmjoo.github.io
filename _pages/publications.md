@@ -20,7 +20,7 @@ You can find my full articles on <a href="https://scholar.google.com/citations?u
       <td style="height: 120px; vertical-align: top;">
         <p>
           <strong>CCDP: </strong><br>
-          <strong>CCDP: Composition of Conditional Diffusion Policies with Guided Sampling<br>
+          <strong>CCDP: Composition of Conditional Diffusion Policies with Guided Sampling<strong><br>
           <i>Under review.</i>
         </p>
         <div class="links">
