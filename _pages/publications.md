@@ -19,14 +19,14 @@ You can find my full articles on <a href="https://scholar.google.com/citations?u
       </td>
       <td style="height: 120px; vertical-align: top;">
         <p>
-          <strong>Sampling-Based Constrained Motion Planning with Products of Experts</strong><br>
-          <strong>Amirreza Razmjoo</strong>, Sylvain Calinon, Michael Gienger, and Fan Zhang.<br>
+          <strong>CCDP: </strong><br>
+          <strong>CCDP: Composition of Conditional Diffusion Policies with Guided Sampling<br>
           <i>Under review.</i>
         </p>
         <div class="links">
           <!-- Uncomment and update links when available -->
-          <!-- <a class="btn btn-info" href="https://arxiv.org/pdf/2412.17462" role="button" target="_blank">PDF</a> -->
-          <!-- <a class="btn btn-info" href="https://sites.google.com/view/robustpl/" role="button" target="_blank">WEBSITE</a> -->
+          <a class="btn btn-info" href="https://arxiv.org/pdf/2503.15386" role="button" target="_blank">PDF</a>
+          <a class="btn btn-info" href="https://hri-eu.github.io/ccdp/" role="button" target="_blank">WEBSITE</a>
         </div>
       </td>
     </tr>
@@ -41,10 +41,10 @@ You can find my full articles on <a href="https://scholar.google.com/citations?u
 <tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://amirrazmjoo.github.io/images/IROS_onur_2025.jpeg" width="120px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
 <strong> Sampling-Based Constrained Motion Planning with Products of Experts, </strong> <br>
-Onur Beker, Nico Gürtler, Ji Shi, A. Ren\'e Geist, <strong> Amirreza Razmjoo </strong>, Georg Martius,  Sylvain Calinon<br> 
+Onur Beker, Nico Gürtler, Ji Shi, A. Renè Geist, <strong> Amirreza Razmjoo </strong>, Georg Martius,  Sylvain Calinon<br> 
 <i> Under review.  <br> 
 <div class="links">
-    <!-- <a class="btn btn-info" href="https://arxiv.org/pdf/2412.17462" role="button" target="_blank"> PDF </a> -->
+    <a class="btn btn-info" href="https://arxiv.org/pdf/2503.11736" role="button" target="_blank"> PDF </a>
     <!-- <a class="btn btn-info" href="https://sites.google.com/view/robustpl/" role="button" target="_blank"> WEBSITE </a> -->
 </div>
 </i>  </p> </td>
