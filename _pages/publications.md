@@ -19,7 +19,6 @@ You can find my full articles on <a href="https://scholar.google.com/citations?u
       </td>
       <td style="height: 120px; vertical-align: top;">
         <p>
-          <strong>CCDP: </strong><br>
           <strong>CCDP: Composition of Conditional Diffusion Policies with Guided Sampling</strong><br>
           <strong>Amirreza Razmjoo</strong>, Sylvain Calinon, Michael Gienger, and Fan Zhang<br> 
           <i>Under review.</i>
