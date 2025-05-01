@@ -13,7 +13,7 @@ You can find my full articles on <a href="https://scholar.google.com/citations?u
     <tr>
       <td style="width: 120px; height: 120px; vertical-align: top;">
         <video style="float: left; margin-right: 10px; border: 2px solid #bbb;" 
-               src="https://amirrazmjoo.github.io/videos/OM.mp4" 
+               src="https://amirrazmjoo.github.io/videos/DO.mp4" 
                width="120" height="120" autoplay loop muted>
         </video>
       </td>
