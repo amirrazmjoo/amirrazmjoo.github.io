@@ -23,6 +23,10 @@ I am particularly excited about **bridging the gap between theory and real-world
 (2024/09) Our paper <a href="https://openreview.net/forum?id=yNQu9zqx6X&referrer=%5Bthe%20profile%20of%20Teng%20Xue%5D(%2Fprofile%3Fid%3D~Teng_Xue1)"> Robust Manipulation Primitive Learning via Domain Contraction </a> is accepted to Conference on Robot Learning (CoRL), 2024! -->
 
 <p>
+(2025/5) Our paper entitled <a href="https://arxiv.org/pdf/2412.11829"> Robust Contact-rich Manipulation through Implicit Motor Adaptation </a> is accepted to IJRR. 
+</p>
+
+<p>
 (2024/10) I will be joining Honda Research Institute Europe for a six-month internship, working under the supervision of Dr. Michael Gienger and Dr. Fan Zhang.
 </p>
 
