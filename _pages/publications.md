@@ -42,7 +42,7 @@ Teng Xue, <strong>Amirreza Razmjoo</strong>, Suhan Shetty, and Sylvain Calinon. 
         <p>
           <strong>CCDP: Composition of Conditional Diffusion Policies with Guided Sampling</strong><br>
           <strong>Amirreza Razmjoo</strong>, Sylvain Calinon, Michael Gienger, and Fan Zhang<br> 
-          <i>IROS</i>
+          <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i>
         </p>
         <div class="links">
           <!-- Uncomment and update links when available -->
@@ -63,7 +63,7 @@ Teng Xue, <strong>Amirreza Razmjoo</strong>, Suhan Shetty, and Sylvain Calinon. 
 <td style= "height=120px; vertical-align: top;"> <p>
 <strong> A Smooth Analytical Formulation of Collision Detection and Rigid Body Dynamics With Contact, </strong> <br>
 Onur Beker, Nico Gürtler, Ji Shi, A. Renè Geist, <strong> Amirreza Razmjoo </strong>, Georg Martius,  Sylvain Calinon<br> 
-<i>IROS<br> 
+<i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)<br> 
 <div class="links">
     <a class="btn btn-info" href="https://arxiv.org/pdf/2503.11736" role="button" target="_blank"> PDF </a>
     <!-- <a class="btn btn-info" href="https://sites.google.com/view/robustpl/" role="button" target="_blank"> WEBSITE </a> -->
