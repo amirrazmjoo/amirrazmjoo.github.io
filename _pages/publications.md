@@ -28,6 +28,25 @@ Yimming Li, Nael Darwiche, <strong>Amirreza Razmjoo</strong>, Sichao Liu, Auke I
 </table>
 
 
+<table >
+<tbody>
+<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://amirrazmjoo.github.io/images/ttts_5x.gif" width="120px" height="120px" border="2px solid #bbb"> </td>
+<td style= "height=120px; vertical-align: top;"> <p>
+<strong> Monte Carlo Tree Search with Tensor Factorization for Robot Optimization, </strong> <br>
+Teng Xue, Yan Zhang, <strong>Amirreza Razmjoo</strong>, and Sylvain Calinon. <br> 
+<i> Under review
+<br> 
+<div class="links">
+    <a class="btn btn-info" href="https://arxiv.org/pdf/2507.04949" role="button" target="_blank"> PDF </a>
+    <a class="btn btn-info" href="https://sites.google.com/view/tt-ts" role="button" target="_blank"> Website </a>
+    <!-- <a class="btn btn-info" href="https://sites.google.com/view/robustpl/" role="button" target="_blank"> WEBSITE </a> -->
+</div>
+</i>  </p> </td>
+</tr>
+</tbody>
+</table>
+
+
 
 
 <table >
@@ -178,7 +197,7 @@ Teng Xue, <strong>Amirreza Razmjoo</strong>, Suhan Shetty, and Sylvain Calinon. 
 
 <table >
 <tbody>
-<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://amirrazmjoo.github.io/images/RSS_24_Teng.jpeg" width="120px" height="120px" border="2px solid #bbb"> </td>
+<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://amirrazmjoo.github.io/images/RSS24.gif" width="120px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
 <strong> Logic-Skill Programming: An Optimization-based Approach to Sequential Skill Planning, </strong> <br>
 Teng Xue, <strong>Amirreza Razmjoo</strong>, Suhan Shetty, and Sylvain Calinon. <br> 
@@ -195,11 +214,11 @@ Teng Xue, <strong>Amirreza Razmjoo</strong>, Suhan Shetty, and Sylvain Calinon. 
 
 <table >
 <tbody>
-<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://amirrazmjoo.github.io/images/RSS_24_Yimming.jpeg" width="120px" height="120px" border="2px solid #bbb"> </td>
+<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://amirrazmjoo.github.io/images/yimming_rss_24.gif" width="120px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
 <strong> Configuration Space Distance Fields for Manipulation Planning, </strong> <br>
 Yimming Li, Xuemin Chi, <strong>Amirreza Razmjoo</strong>, and Sylvain Calinon. <br> 
-<i> Robotics: Science and Systems (RSS). (<strong style="color: goldenrod;">Best paper Finalist</strong>) 
+<i> Robotics: Science and Systems (RSS). (<strong style="color: goldenrod;">Outstanding paper Finalist</strong>) 
 <br> 
 <div class="links">
     <a class="btn btn-info" href="https://enriquecoronadozu.github.io/rssproceedings2024/rss20/p131.pdf" role="button" target="_blank"> PDF </a> 
