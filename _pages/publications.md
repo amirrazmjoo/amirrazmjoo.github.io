@@ -9,6 +9,23 @@ You can find my full articles on <a href="https://scholar.google.com/citations?u
 <strong>Selected Publications</strong> <br>
 <strong>2025</strong> <br>
 
+<table >
+<tbody>
+<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://amirrazmjoo.github.io/images/TT_poe_cropped_top25.gif" width="120px" height="120px" border="2px solid #bbb"> </td>
+<td style= "height=120px; vertical-align: top;"> <p>
+<strong> Sampling-Based Constrained Motion Planning with Products of Experts, </strong> <br>
+<strong>Amirreza Razmjoo</strong>, Teng Xue, Suhan Shetty, and Sylvain Calinon. <br> 
+<i> The International Journal of Robotics Research (IJRR).    
+<br> 
+<div class="links">
+    <a class="btn btn-info" href="https://arxiv.org/pdf/2412.17462" role="button" target="_blank"> PDF </a>
+    <!-- <a class="btn btn-info" href="https://sites.google.com/view/robustpl/" role="button" target="_blank"> WEBSITE </a> -->
+</div>
+</i>  </p> </td>
+</tr>
+</tbody>
+</table>
+
 
 <table >
 <tbody>
@@ -117,25 +134,6 @@ Onur Beker, Nico Gürtler, Ji Shi, A. Renè Geist, <strong> Amirreza Razmjoo </s
 
 
 <strong>2024</strong> <br>
-
-<table >
-<tbody>
-<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://amirrazmjoo.github.io/images/IJRR_Amir_2024.jpeg" width="120px" height="120px" border="2px solid #bbb"> </td>
-<td style= "height=120px; vertical-align: top;"> <p>
-<strong> Sampling-Based Constrained Motion Planning with Products of Experts, </strong> <br>
-<strong>Amirreza Razmjoo</strong>, Teng Xue, Suhan Shetty, and Sylvain Calinon. <br> 
-<i> Under review.  
-<br> 
-<div class="links">
-    <a class="btn btn-info" href="https://arxiv.org/pdf/2412.17462" role="button" target="_blank"> PDF </a>
-    <!-- <a class="btn btn-info" href="https://sites.google.com/view/robustpl/" role="button" target="_blank"> WEBSITE </a> -->
-</div>
-</i>  </p> </td>
-</tr>
-</tbody>
-</table>
-
-
 
 <table >
 <tbody>
