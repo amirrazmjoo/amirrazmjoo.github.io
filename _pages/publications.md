@@ -98,7 +98,7 @@ Teng Xue, <strong>Amirreza Razmjoo</strong>, Suhan Shetty, and Sylvain Calinon. 
         <p>
           <strong>CCDP: Composition of Conditional Diffusion Policies with Guided Sampling</strong><br>
           <strong>Amirreza Razmjoo</strong>, Sylvain Calinon, Michael Gienger, and Fan Zhang<br> 
-          <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i>
+          <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i><br>(<strong style="color: goldenrod;">Outstanding paper award at TARo Workshop at IROS</strong>) 
         </p>
         <div class="links">
           <!-- Uncomment and update links when available -->
